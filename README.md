@@ -56,8 +56,8 @@ Ensure that both the Raspberry Pi and your laptop are connected to the same Wi-F
 Enable necessary configurations on the Raspberry Pi for the Disaster Management UGV.
 ### Set Up Virtual Environment and Install Required Packages:
 Create a virtual environment on the Raspberry Pi by terminal for Python programming
-Install the necessary Python packages for the Disaster Management UGV
-pip install -r requirements.txt
+Install the necessary Python packages for the Disaster Management UGV <br/>just run this command <br/>
+pip install -r requirements.txt <br/>
 Now, your Raspberry Pi is set up with a virtual environment, ready for Python programming with the required packages and ready to run the Disaster Management UGV.
 # Configuration
 Enable GPIO ,Serial SSH or Additional Configurations if required
