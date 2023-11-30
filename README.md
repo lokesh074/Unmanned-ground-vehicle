@@ -19,22 +19,22 @@ The UGV stores human detection data, including latitude and longitude coordinate
 The UGV utilizes its onboard camera to measure the distance between itself and detected humans, providing valuable insights for rescue planning.
 
 # Hardware Requirements
-Raspberry Pi 4\n
-HCSR04 Ultrasonic Sensor\n
-Neo 6m GPS Module\n
-L298N Motor Driver\n
-DC Motors\n
-Mecanum Wheels\n
-Battery (12V/3.5 Amp)\n
-Camera\n
-64GB memory card with reader\n
+Raspberry Pi 4<br />
+HCSR04 Ultrasonic Sensor<br />
+Neo 6m GPS Module<br />
+L298N Motor Driver<br />
+DC Motors<br />
+Mecanum Wheels<br />
+Battery (12V/3.5 Amp)<br />
+Camera<br />
+64GB memory card with reader<br />
 
 # Software Requirements
-Raspberry pi imager\n
-Raspberry Pi Operating System(64 bit)\n
-Python 3.11\n
-Putty\n
-Ip scanner\n
+Raspberry pi imager<br />
+Raspberry Pi Operating System(64 bit)<br />
+Python 3.11<br />
+Putty<br />
+Ip scanner<br />
 
 # Installation
 ### Prepare the Raspberry Pi:
