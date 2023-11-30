@@ -60,11 +60,9 @@ Install the necessary Python packages for the Disaster Management UGV
 pip install -r requirements.txt
 Now, your Raspberry Pi is set up with a virtual environment, ready for Python programming with the required packages and ready to run the Disaster Management UGV.
 # Configuration
-Explain any configuration settings or parameters users might need to modify.
+Enable GPIO ,Serial SSH or Additional Configurations if required
 
-# Usage
-Instructions on how to run the project on the Raspberry Pi.
-Guidance on interacting with the UGV.
+# Pin Diagram
 
 
 # Demo
