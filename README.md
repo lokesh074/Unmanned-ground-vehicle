@@ -63,6 +63,7 @@ Now, your Raspberry Pi is set up with a virtual environment, ready for Python pr
 Enable GPIO ,Serial SSH or Additional Configurations if required
 
 # Pin Diagram
-
+![Pin Diagram](https://github.com/lokesh074/Unmanned-ground-vehicle/raw/main/image/pin_diagram.jpg)
 
 # Demo
+
