@@ -66,7 +66,7 @@ while cap.isOpened():
     pred = results.pred[0]
     for det in pred:
         label, conf, bbox = det[5], det[4], det[:4]
-        if label == 0 and conf>=0.60:  # Assuming class index 0 corresponds to humans
+        if label == 0 and conf>=0.60:  # class index 0 corresponds to humans
             gps_location = loc()
             if gps_location:
                 print("gps location has been inserted",gps_location)
